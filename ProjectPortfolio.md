@@ -3,7 +3,9 @@
 
 Developed a user-friendly and secure online platform for customers to browse, purchase, and manage electronics.
 Utilized Spring Boot for efficient back-end development and a robust foundation.
-Key Functionalities:
+
+
+Fuctional Requirements:
 
 Product Management:
 Add, edit, and delete product information.
