@@ -64,7 +64,7 @@ Performance metrics (if applicable) to highlight the application's efficiency.
 Deployment details if the project is deployed to a production environment.
 By showcasing your work in this way, you can effectively demonstrate your skills and experience in building a Spring Boot application for an online electronic store.
 
-**Here's a breakdown of the core technologies used to build an online electronic store with Spring Boot:**
+**Core Technologies used to build an online electronic store with Spring Boot:**
 
 Front-End Development:
 
@@ -105,3 +105,22 @@ Continuous Integration/Continuous Delivery (CI/CD): Tools like Jenkins or GitLab
 API Documentation: Tools like Swagger can be used to document APIs for easier integration and understanding.
 Testing Frameworks: JUnit for unit testing and Spring Integration Test for integration testing ensure code quality and application functionality.
 Monitoring and Logging: Implement monitoring tools to track application health and performance. Utilize logging frameworks to record application events for easier troubleshooting.
+
+**Best Practices:**
+Development Practices
+Security Practices
+Performance and Scalability
+User Experience (UX)
+API Documentation
+Deployment Automation
+Error Handling
+Accessibility
+
+**TECHNICAL APPROACH:**
+
+**Flow Charts and Diagrams:**
+LOGICAL DIAGRAM:
+A diagram of a shopping system
+
+Description automatically generated
+
