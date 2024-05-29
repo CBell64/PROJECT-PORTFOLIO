@@ -1,12 +1,4 @@
-![CST4522](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/ec280809-f23d-463b-929d-144cacedbc7d)
-![CST4522](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/ec280809-f23d-463b-929d-144cacedbc7d)
-![CST4522](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/ec280809-f23d-463b-929d-144cacedbc7d)
-![CST452](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/43652e1c-bed4-4457-a23a-d9398699753c)
-![CST452](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/43652e1c-bed4-4457-a23a-d9398699753c)
-![CST452](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/43652e1c-bed4-4457-a23a-d9398699753c)
-![CST452](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/d07e1f6f-c816-4c5f-bbd6-7e3954e92186)
-![CST452](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/d07e1f6f-c816-4c5f-bbd6-7e3954e92186)
-![CST452](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/d07e1f6f-c816-4c5f-bbd6-7e3954e92186)
+
 **Introduction**
 
 
@@ -125,10 +117,106 @@ Deployment Automation
 Error Handling
 Accessibility
 
+**Report's Design:**
+
+An online electronic store specializing in computers can benefit from various reports to track sales performance, customer behavior, and inventory levels. Here's a list of potential reports: 
+
+Sales Reports 
+
+Sales by Product: This report shows the quantity and total revenue generated from individual computer products or categories (laptops, desktops, tablets, gaming accessories, Android and iphone) over a chosen period. 
+
+Sales by Brand: This report analyzes sale performance for different computer brands stocked in the store, identifying top-selling brands and potential areas for improvement. 
+
+Sales by Price Range: This report segments sales data by product price range, providing insights into customer spending habits and price sensitivity. 
+
+Sales by Customer: This report details individual customer purchase history, revealing buying trends and opportunities for targeted promotions or loyalty programs. 
+
+Sales by Region/Location: This report analyzes sales performance in different geographic locations (if applicable), helping identify areas with high demand or requiring additional marketing efforts. 
+
+Sales Performance Over Time: This report tracks sales trends over a specific period (weekly, monthly, quarterly, yearly), allowing for analysis of seasonal fluctuations or the impact of marketing campaigns. 
+
+Inventory Reports 
+
+Inventory Levels: This report provides a real-time overview of current stock levels for various computer products, helping with stock management and preventing stockouts. 
+
+Low Stock Alert Report: This report identifies products with low inventory levels, prompting timely reordering to maintain stock availability. 
+
+Inventory Movement Report: This report tracks the inflow and outflow of computer products within the store, providing insights into product demand and stock turnover. 
+
+Customer Reports 
+
+Customer Acquisition Report: This report analyzes how customers find the online store, identifying the effectiveness of marketing channels and potential areas for improvement. 
+
+Customer Demographics Report: This report provides insights into customer demographics (age, location, gender), allowing for targeted marketing campaigns and product recommendations. 
+
+Customer Purchase History Report: This report details individual customer purchase history, revealing buying trends and opportunities for targeted promotions or loyalty programs. 
+
+Customer Reviews Report: This report analyzes customer reviews of products, providing valuable feedback for product selection and improvement. 
+
+Additional Reports 
+
+Website Traffic Report: This report tracks website traffic, user behavior (e.g., page views, time spent on specific pages), and identifies areas for improvement in website design and user experience. 
+
+Marketing Campaign Performance Report: This report analyzes the effectiveness of marketing campaigns in driving traffic and sales, allowing for optimization of marketing strategies. 
+
+Abandoned Cart Report: This report identifies instances where customers added products to their cart but did not complete the purchase. Analyzing the reasons behind abandoned carts can help improve checkout processes and increase conversion rates. 
+
+By generating and analyzing these reports regularly, the online electronic store can gain valuable insights into customer behavior, sales trends, and inventory management. This data can then be used to optimize operations, improve customer experience, and make data-driven decisions for business growth. 
+
 **TECHNICAL APPROACH:**
 
 **Flow Charts and Diagrams:**
 
-LOGICAL DIAGRAM:
+**LOGICAL DIAGRAM:**
+
+![CST452](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/6da004e3-2799-451a-af7b-a8c91216d8c5)
+
+
+
+**USER INTERFACE:**
+![CST4522](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/ec280809-f23d-463b-929d-144cacedbc7d)
+
+**SITEMAP:**
+![CST4523](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/e3138334-cada-42a8-ab8a-d8d61441fac7)
+
+
+**RISKS, CHALLENGES, ISSUES:**
+
+
+Risks:
+
+Security Vulnerabilities: Improper security measures can lead to data breaches, unauthorized access, and credit card theft.
+Mitigation: Implement robust security practices like Spring Security, password hashing, secure data storage, and regular security audits.
+Payment Processing Errors: Integration issues or errors with the chosen payment gateway can disrupt transactions and frustrate customers.
+Mitigation: Thoroughly test integration with the payment gateway and have robust error handling mechanisms in place.
+Scalability Issues: As the store grows in popularity and product offerings, the application might struggle to handle increased traffic and data volume.
+Mitigation: Choose a scalable architecture that can adapt to increasing demands. Explore cloud-based deployments for easier scaling.
+Data Loss: Hardware failures, software bugs, or security breaches can lead to data loss.
+Mitigation: Implement regular backups, disaster recovery plan, and robust data validation and sanitization practices.
+Challenges:
+
+Meeting User Expectations: Building a user-friendly and intuitive interface with smooth navigation and search functionalities is crucial.
+Solution: Invest in user experience (UX) design, usability testing, and gather user feedback throughout development.
+Managing Product Data: Maintaining accurate and up-to-date product information, including descriptions, specifications, and images, requires a robust system.
+Solution: Develop a user-friendly interface for product management and consider integrating with a Product Information Management (PIM) system.
+Staying Competitive: The online retail landscape is constantly evolving. Keeping up with trends and offering competitive prices can be challenging.
+Solution: Be data-driven, analyze customer behavior and market trends, and adapt your offerings accordingly.
+Issues:
+
+Integration Complexity: Integrating various components like payment gateways, search engines, or content management systems can be challenging.
+Solution: Choose well-documented APIs and leverage integration libraries or tools to simplify the process.
+Testing Challenges: Testing a complex application like an online store requires a comprehensive approach to ensure all functionalities work seamlessly.
+Solution: Implement a multi-layered testing strategy including unit tests, integration tests, and end-to-end (E2E) tests.
+Project Management Challenges: Keeping track of tasks, deadlines, and managing resources effectively is essential for project success.
+Solution: Utilize project management tools, methodologies like Agile, and clear communication among team members.
+By proactively identifying and addressing these risks, challenges, and issues, you can increase the chances of building a successful and secure online electronic store using Spring Boot.
+
+
+
+
+
+
+
+
 
 
