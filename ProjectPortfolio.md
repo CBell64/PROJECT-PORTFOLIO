@@ -119,8 +119,9 @@ Accessibility
 **TECHNICAL APPROACH:**
 
 **Flow Charts and Diagrams:**
-LOGICAL DIAGRAM:
-A diagram of a shopping system
 
-Description automatically generated
+LOGICAL DIAGRAM:
+
+
+
 
