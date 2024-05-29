@@ -183,6 +183,10 @@ By generating and analyzing these reports regularly, the online electronic store
 
 ![thumb](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/d555e829-2a77-41da-adba-beb29738d600)
 
+**Wireframe:**
+
+![82c459669aabc657634b5f9f58bc508e--wireframe-retail-stores](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/ee820b39-d382-4734-b2cd-764f8f11803f)
+
 
 
 **RISKS, CHALLENGES, ISSUES:**
@@ -215,6 +219,39 @@ Solution: Implement a multi-layered testing strategy including unit tests, integ
 Project Management Challenges: Keeping track of tasks, deadlines, and managing resources effectively is essential for project success.
 Solution: Utilize project management tools, methodologies like Agile, and clear communication among team members.
 By proactively identifying and addressing these risks, challenges, and issues, you can increase the chances of building a successful and secure online electronic store using Spring Boot.
+
+**Code Snippets:**
+
+public class Product {
+
+    private Long id;
+    private String name;
+    private String description;
+    private double price;
+    private String category;
+    private String imageUrl;
+
+    // Getters and Setters omitted for brevity
+}
+@RestController
+@RequestMapping("/api/products")
+public class ProductController {
+
+    private final ProductService productService;
+
+    @Autowired
+    public ProductController(ProductService productService) {
+        this.productService = productService;
+    }
+
+    @GetMapping
+    public ResponseEntity<List<Product>> getAllProducts() {
+        List<Product> products = productService.getAllProducts();
+        return ResponseEntity.ok(products);
+    }
+}
+
+
 
 
 
