@@ -1,3 +1,12 @@
+![CST4522](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/ec280809-f23d-463b-929d-144cacedbc7d)
+![CST4522](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/ec280809-f23d-463b-929d-144cacedbc7d)
+![CST4522](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/ec280809-f23d-463b-929d-144cacedbc7d)
+![CST452](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/43652e1c-bed4-4457-a23a-d9398699753c)
+![CST452](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/43652e1c-bed4-4457-a23a-d9398699753c)
+![CST452](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/43652e1c-bed4-4457-a23a-d9398699753c)
+![CST452](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/d07e1f6f-c816-4c5f-bbd6-7e3954e92186)
+![CST452](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/d07e1f6f-c816-4c5f-bbd6-7e3954e92186)
+![CST452](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/d07e1f6f-c816-4c5f-bbd6-7e3954e92186)
 **Introduction**
 
 
@@ -121,7 +130,5 @@ Accessibility
 **Flow Charts and Diagrams:**
 
 LOGICAL DIAGRAM:
-
-
 
 
