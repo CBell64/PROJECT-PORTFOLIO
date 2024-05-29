@@ -179,6 +179,11 @@ By generating and analyzing these reports regularly, the online electronic store
 **SITEMAP:**
 ![CST4523](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/e3138334-cada-42a8-ab8a-d8d61441fac7)
 
+**ER DIAGRAM:**
+
+![thumb](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/d555e829-2a77-41da-adba-beb29738d600)
+
+
 
 **RISKS, CHALLENGES, ISSUES:**
 
