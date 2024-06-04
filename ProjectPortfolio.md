@@ -252,6 +252,27 @@ public class ProductController {
 }
 
 
+Tables:
+
+
+![table one](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/d7001d24-548e-4e76-b673-4e46a5f79377)
+
+![tabletwo](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/f44b2c10-5bdf-44f3-bada-78b5eb6abf61)
+
+![tablethree](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/3eb9ae98-22d1-40ba-a791-610018a2360c)
+
+![tablefour](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/a7484596-f2ca-45bf-a44e-e55f9dec06fa)
+
+![tablefive](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/3c79b092-6cae-4752-987d-fea653446921)
+
+![tablesix](https://github.com/CBell64/PROJECT-PORTFOLIO/assets/72112627/c591354e-7325-40e3-b5cc-2ea78ad4fb78)
+
+
+
+
+
+
+
 
 
 
